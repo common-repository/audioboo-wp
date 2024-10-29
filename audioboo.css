@@ -1,0 +1,41 @@
+.widget_audioboo {
+	background-color: #f3f3f3;
+}
+
+.audioboo_widget_div {
+	background-color: #eaeaea;
+	width: 100%;
+}
+
+#audioboo_player_div {
+	padding-right: 4px;
+	padding-left: 4px;
+}
+
+.audiobooitem_title {
+	font: 1.2em "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+}
+
+.audioboo_widget_separator {
+	background-color: #dadada;
+	height: 1px;
+	width: 100%;
+	margin-top: 2px;
+	margin-bottom: 3px;
+}
+
+
+.audiobooitem_bottom, .audiobooitem_bottom_left, .audiobooitem_bottom_right {
+	display: inline;
+}
+
+.audiobooitem_bottom_right {
+	float: right;
+}
+
+/*
+.widget_audioboo > .widgettitle {
+	color: #fa2a91;
+	font-size: 2px;
+}
+*/

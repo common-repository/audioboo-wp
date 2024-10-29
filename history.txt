@@ -1,0 +1,16 @@
+Version 1.2 - 21.04.2009
+------------------------
+fixed for compatibility with WP 2.8
+
+Version 1.1 - 21.04.2009
+------------------------
+# added for admin panel CSS style selector:
+- default - read from AudioBoo website,
+- custom - read from user's selected themes folder,
+- none
+# updated code:
+- fixed bug: If default footer section in Wordpress theme was not used, audioboo did not display.
+
+Version 0.1 - 17.03.2009
+------------------------
+# first version
